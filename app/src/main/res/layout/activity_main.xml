@@ -6,7 +6,12 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@color/invert_zinzolin"
+    android:id="@+id/mainLayout"
     tools:context=".MainActivity">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="24dp" />
 
     <TextView
         android:id="@+id/textTitle"
@@ -21,16 +26,14 @@
         android:textStyle="bold"
         android:typeface="normal" />
 
-    <ImageView
-        android:id="@+id/imageView"
+    <Space
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        tools:srcCompat="@tools:sample/avatars" />
+        android:layout_height="24dp" />
 
-    <Button
-        android:id="@+id/button"
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Random Meme Template" />
+        android:layout_height="match_parent"
+        android:background="#00FF0000" />
 
 </LinearLayout>

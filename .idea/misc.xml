@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dorian.Fournier/AndroidStudioProjects/Encyclomemedia/app/src/main/res/drawable/view_holder_border.xml" value="0.2203125" />
         <entry key="..\:/Users/Dorian.Fournier/AndroidStudioProjects/Encyclomemedia/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Dorian.Fournier/AndroidStudioProjects/Encyclomemedia/app/src/main/res/layout/information_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dorian.Fournier/AndroidStudioProjects/Encyclomemedia/app/src/main/res/layout/view_holder_item.xml" value="0.33" />
+        <entry key="..\:/Users/Dorian.Fournier/AndroidStudioProjects/Encyclomemedia/app/src/main/res/layout/viewholder.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
